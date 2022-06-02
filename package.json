@@ -1,0 +1,18 @@
+{
+  "name": "flightticketmodule",
+  "version": "1.0.0",
+  "description": "module for creating, updating and displaying flight tickets info",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "iti",
+    "nodejs",
+    "customModule",
+    "aaib"
+  ],
+  "author": "radwaymn",
+  "license": "ISC"
+}
